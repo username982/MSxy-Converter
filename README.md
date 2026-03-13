@@ -32,7 +32,7 @@ pip install sacn_color_converter-1.0.0-py3-none-any.whl
 Or install from source:
 
 ```bash
-git clone https://github.com/your-username/sacn-color-converter.git
+git clone https://github.com/username982/MSxy-Converter.git
 cd sacn-color-converter
 pip install .
 ```
