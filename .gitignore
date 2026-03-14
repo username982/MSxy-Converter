@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+led_config.json
+*.json
+!led_config_example.json
+gdtf/
+launcher.log
+*.log
+.DS_Store
+Thumbs.db
